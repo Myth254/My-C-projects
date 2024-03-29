@@ -19,7 +19,8 @@ int main()
 {
     char winner = ' ';
     char response = ' ';
-
+	printf(" ~LET'S PLAY A GAME~ \n\n");
+	
     do
     {
     winner = ' ';
