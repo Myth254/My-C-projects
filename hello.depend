@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1709977176 source:c:\users\admin\desktop\c program\hello\main.c
+	<stdio.h>
+	<string.h>
+
+1710707703 source:c:\users\admin\onedrive\desktop\program\c program\hello\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+
